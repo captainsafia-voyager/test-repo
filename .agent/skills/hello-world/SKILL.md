@@ -1,3 +1,8 @@
+---
+name: hello-world
+description: A simple hello world skill that prints a greeting message.
+---
+
 # Hello World Skill
 
 This is a simple hello world skill.
